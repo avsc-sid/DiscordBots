@@ -1,0 +1,14 @@
+{
+  "prefix": "!sb",
+  "token": "token",
+  "bot_age": 0.3,
+  "words_array": [
+    "Hi",
+    "Bye",
+    "This is array"
+  ],
+  "bot_info": {
+    "name": "Skybot Javascript Edition",
+    "version": 0.1
+  }
+}
